@@ -1,3 +1,7 @@
+body {
+    background-color: #052d73;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 nav {
    background-color: black; 
    display: flex;
@@ -15,11 +19,7 @@ nav {
 }
 a {
     font-size: x-large;
-    padding: 5px;
+    padding: 10px;
     color: white;
     text-decoration: none;
-}
-
-h1 {
-
 }
