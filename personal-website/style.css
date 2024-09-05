@@ -39,3 +39,9 @@ a {
     display: block;
     width: 50%;
 }
+.projects {
+    background-color: #202224;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
